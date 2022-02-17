@@ -1,0 +1,10 @@
+INFO     WDM:logger.py:26 
+
+INFO     WDM:logger.py:26 ====== WebDriver manager ======
+INFO     WDM:logger.py:26 Current google-chrome version is 98.0.4758
+INFO     WDM:logger.py:26 Get LATEST chromedriver version for 98.0.4758 google-chrome
+INFO     WDM:logger.py:26 Driver [C:\Users\mihai.dejeu\.wdm\drivers\chromedriver\win32\98.0.4758.102\chromedriver.exe] found in cache
+INFO     TestCases.test_carwale:test_carwale.py:57 ******Inside Select Cars Test******
+INFO     Pages.BasePage:BasePage.py:57 Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="03a61d79da08aa352ae9c251af625b01", element="00bbe418-a4e4-47ea-b238-b7baf37d4eee")>
+INFO     Pages.BasePage:BasePage.py:22 Clicking on an element: findNewCar_XPATH
+INFO     Pages.BasePage:BasePage.py:22 Clicking on an element: bmw_XPATH

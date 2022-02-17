@@ -1,0 +1,4 @@
+2022-02-15 21:41:31,310 - test_signup.py:[14] - [INFO] - Test Do Sign Up started
+2022-02-15 21:41:49,621 - test_signup.py:[14] - [INFO] - Test Do Sign Up started
+2022-02-15 21:42:02,671 - test_signup.py:[14] - [INFO] - Test Do Sign Up started
+2022-02-15 21:42:02,873 - test_signup.py:[14] - [INFO] - Test Do Sign Up started

@@ -1,0 +1,7 @@
+INFO     WDM:logger.py:26 
+
+INFO     WDM:logger.py:26 ====== WebDriver manager ======
+INFO     WDM:logger.py:26 Current google-chrome version is 98.0.4758
+INFO     WDM:logger.py:26 Get LATEST chromedriver version for 98.0.4758 google-chrome
+INFO     WDM:logger.py:26 Driver [C:\Users\mihai.dejeu\.wdm\drivers\chromedriver\win32\98.0.4758.102\chromedriver.exe] found in cache
+INFO     TestCases.test_carwale:test_carwale.py:57 ******Inside Select Cars Test******

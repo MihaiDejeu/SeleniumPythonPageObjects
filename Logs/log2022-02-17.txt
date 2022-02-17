@@ -1,0 +1,333 @@
+2022-02-17 08:26:40,508 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:26:40,813 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="54bca2fa47dd65c70f2b61738ec1abc5", element="e9c82740-e28d-4e94-8026-4636fce4ba6d")>
+2022-02-17 08:26:40,926 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:26:40,926 - BasePage.py:[22] - [INFO] - Clicking on an element: 
+2022-02-17 08:26:43,932 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:26:44,238 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="54bca2fa47dd65c70f2b61738ec1abc5", element="e9c82740-e28d-4e94-8026-4636fce4ba6d")>
+2022-02-17 08:26:44,307 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:26:44,307 - BasePage.py:[22] - [INFO] - Clicking on an element: 
+2022-02-17 08:26:47,321 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:26:47,633 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="54bca2fa47dd65c70f2b61738ec1abc5", element="e9c82740-e28d-4e94-8026-4636fce4ba6d")>
+2022-02-17 08:26:47,677 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:26:47,677 - BasePage.py:[22] - [INFO] - Clicking on an element: 
+2022-02-17 08:26:50,690 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:26:51,016 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="54bca2fa47dd65c70f2b61738ec1abc5", element="e9c82740-e28d-4e94-8026-4636fce4ba6d")>
+2022-02-17 08:26:51,092 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:26:51,092 - BasePage.py:[22] - [INFO] - Clicking on an element: 
+2022-02-17 08:27:04,714 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:27:05,283 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0bcb4e86-dc56-41db-bcd5-96bee0ff154e", element="fa0d5992-4f7e-4352-85ef-562d4c5778c4")>
+2022-02-17 08:27:05,831 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:27:05,832 - BasePage.py:[22] - [INFO] - Clicking on an element: 
+2022-02-17 08:27:08,843 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:27:09,108 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0bcb4e86-dc56-41db-bcd5-96bee0ff154e", element="fa0d5992-4f7e-4352-85ef-562d4c5778c4")>
+2022-02-17 08:27:19,468 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:27:19,727 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0bcb4e86-dc56-41db-bcd5-96bee0ff154e", element="fa0d5992-4f7e-4352-85ef-562d4c5778c4")>
+2022-02-17 08:27:29,926 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:27:30,211 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="0bcb4e86-dc56-41db-bcd5-96bee0ff154e", element="fa0d5992-4f7e-4352-85ef-562d4c5778c4")>
+2022-02-17 08:28:44,550 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:28:47,565 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:28:50,586 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:28:53,606 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:29:08,150 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:29:11,169 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:29:14,186 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:29:17,204 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:32:44,788 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:32:53,089 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:33:02,797 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:33:12,398 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:33:27,764 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:33:40,118 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:33:52,237 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:34:06,443 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:35:46,758 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:35:56,287 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:36:05,597 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:36:35,298 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:36:35,642 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="5ed7ea30b89f549c4889eb1d04d7ebfe", element="08fa14b9-2b5e-4e69-9ae5-bdee5fdd03a9")>
+2022-02-17 08:36:35,821 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:36:36,509 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 08:36:45,766 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:36:46,093 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="9422ead7978e03c3c7b9c726b727d7bd", element="494714bc-b269-4d51-bcbd-f34b1ab74443")>
+2022-02-17 08:36:46,256 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:36:46,947 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 08:36:57,375 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:36:57,722 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="fc90ab1cebcc43475c7d0f055691e99b", element="90f7f64f-9797-4fbf-8451-2c000e343ea5")>
+2022-02-17 08:36:58,019 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:36:58,688 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 08:37:08,217 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:37:08,610 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="ecf5dd1a1d96d02b4727013987e49723", element="6da5d2e7-a842-4e46-b1f7-a08f29358883")>
+2022-02-17 08:37:08,809 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:37:09,584 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 08:37:23,367 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:37:23,783 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4e72ca00-dbd3-4018-8085-236ae2e45201", element="ac18264e-0485-4bac-8a1a-dc9df1c9b3d1")>
+2022-02-17 08:37:24,293 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:37:24,884 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 08:37:38,828 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:37:39,238 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="3b2d0705-f3eb-4189-940c-d0dceed81e90", element="c5f08002-359b-49d3-abfc-b9bf1e1c3867")>
+2022-02-17 08:37:39,622 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:37:40,011 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 08:37:53,002 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:37:53,507 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="a6ae299b-0a79-42f4-8888-17263decef0d", element="98bb3347-0304-4052-af85-d6f1d63491b0")>
+2022-02-17 08:37:54,057 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:37:54,667 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 08:38:08,154 - test_carwale.py:[27] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 08:38:08,441 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="a746eff7-46d8-444b-a577-3b163df9115d", element="ee3f144c-a269-48ab-9731-a3c829ef7a30")>
+2022-02-17 08:38:08,934 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 08:38:09,428 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 11:38:48,878 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:38:56,623 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:39:03,631 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:39:11,750 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:39:23,175 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:39:34,217 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:39:45,211 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:39:54,806 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:42:40,110 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:47:22,750 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:47:23,074 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="f46d822d8aa041841015afd745bed0ad", element="df7227ab-9c3f-4afb-92e3-8bb71b9dc659")>
+2022-02-17 11:47:23,222 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 11:47:23,710 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 11:47:34,323 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:47:34,706 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="f2fd99f56667556b6c765bcf4bb54883", element="0d6fbc8f-a888-4aba-9361-4dc10b943e2f")>
+2022-02-17 11:47:34,900 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 11:47:35,760 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 11:51:34,918 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:51:44,902 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:51:54,561 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:52:04,242 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:52:17,990 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:52:30,773 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:52:43,581 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 11:52:57,194 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:14:03,680 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:14:14,240 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:14:23,531 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:14:33,248 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:14:46,525 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:14:59,761 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:15:14,196 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:15:26,162 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:18:02,687 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:18:12,689 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:18:50,914 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 12:18:57,117 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 14:29:10,761 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:27:34,839 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:29:19,383 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:29:23,179 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="2cc24b73536d01a5711ce6a81464bb58", element="26b7f5b1-007a-4922-835b-cdbcd6925dff")>
+2022-02-17 15:29:23,303 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:29:23,724 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 15:29:59,474 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:29:59,807 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="c40b8b9bd43f4a6b18a350970c995c77", element="ffab681c-4a5c-4866-a211-bd5ffc854ba9")>
+2022-02-17 15:29:59,944 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:30:00,608 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 15:30:07,799 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:30:08,149 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="eb583e5474192ba7a42f2d984306e3ee", element="480c8999-22d0-4eae-bde9-b68e636846c6")>
+2022-02-17 15:30:08,256 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:30:08,685 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 15:30:15,755 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:30:16,066 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="842a3415f61193b42b2c169b2b11f772", element="3a37216e-5892-46ed-8323-085e84744678")>
+2022-02-17 15:30:16,178 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:30:16,841 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 15:31:29,401 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:31:29,719 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="7495b325a357a949e483cdd3bbac42da", element="182b2538-3e58-47be-96d7-a46b31e205d7")>
+2022-02-17 15:31:29,862 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:31:30,297 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 15:31:37,168 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:31:37,531 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="28873ef9a94d7204a2bde29d3a06c0ff", element="8920b2f6-fe59-4515-84b5-1ecac0beca21")>
+2022-02-17 15:31:37,668 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:31:38,175 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 15:31:44,945 - test_carwale.py:[28] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:31:45,276 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="617608f0aca040de1264d5b4a57fca3c", element="93a8d807-5e77-4801-8baf-bc3c00c54a48")>
+2022-02-17 15:31:45,399 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:31:46,114 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 15:35:05,316 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:35:05,640 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="73d839c7a909cf007d737a35ee37a0e0", element="07eed972-d232-45e2-9f39-986456d27150")>
+2022-02-17 15:35:05,765 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:35:06,268 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 15:36:15,148 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:36:15,470 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="d0949e7b1b75314b2731775e12060acb", element="7ff4c813-fa6c-4c41-9aea-46f2999a8435")>
+2022-02-17 15:36:15,594 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:36:16,082 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 15:36:26,303 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:36:26,629 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="0848bfafa92976c83046f6218e9093ba", element="850657ac-8b4d-45b0-8a69-fe30f4540ff2")>
+2022-02-17 15:36:44,278 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:36:44,661 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="3084212850911c398a7e05a8a71b1700", element="92cd9739-6257-4bbd-a413-151b2f959b11")>
+2022-02-17 15:36:44,822 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:36:45,424 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 15:36:53,178 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:36:53,648 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="1d948bc60a0e239c6ea99aa01b5fa4a0", element="7585fdd3-9ee7-4727-9b82-947db48e5fde")>
+2022-02-17 15:36:53,819 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:36:54,575 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 15:37:09,474 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:37:09,882 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="3fdce593-d126-4c48-99cf-d26b53913378", element="d4223fbe-4fe0-46f2-bcbd-c399d4c87621")>
+2022-02-17 15:37:10,492 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:37:11,581 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 15:37:25,499 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:37:25,780 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="8a4051c6-48c2-4d51-ab55-d2ed04dc34ed", element="907d45fc-7a00-4f3c-a956-8345b74c9d0e")>
+2022-02-17 15:37:26,250 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:37:26,848 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 15:37:38,046 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:37:38,455 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="f0a3de66-8a9f-4f74-8182-282bdcda2485", element="2dd881f0-117c-4e39-adf6-4adcfb51382a")>
+2022-02-17 15:37:39,066 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:37:39,726 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 15:37:50,288 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:37:50,643 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="44ca1165-ec4f-4b55-a9d6-7ff7287b4fe6", element="2d0cf90b-9192-4c71-b148-8094f714be32")>
+2022-02-17 15:37:51,269 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:37:51,867 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 15:40:45,095 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:40:45,461 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="38de0764b0b75892b14debfe5315dc36", element="2ff5b197-0280-4a9d-bfe8-8bc171eebf21")>
+2022-02-17 15:40:45,601 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:40:46,195 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 15:40:56,467 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:40:56,802 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="6478db18ff8f22e40fd2313fc70a0155", element="3ef6f272-af8b-41ea-8f59-a05517b5fd52")>
+2022-02-17 15:41:13,897 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:41:14,278 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="a27f7a0566e950cd7e1fc5e3f402f377", element="98b5b33f-208e-4feb-9a6d-d20a10ede2a8")>
+2022-02-17 15:41:14,397 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:41:15,025 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 15:44:09,460 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:44:09,816 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="4b6d44eea2ed7c2af5d16db39d085faa", element="397ed4c6-5cab-4268-acf5-d93752bd467d")>
+2022-02-17 15:45:10,833 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:45:16,630 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="c04b4d94c9c210921504637b1e6b689e", element="aaca9d14-4c23-486b-9d4e-4cb9b43653c9")>
+2022-02-17 15:45:16,758 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:45:17,247 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 15:45:53,360 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:45:53,675 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="968762ecf4f102f85787065cc1e918af", element="6e5f661f-6366-4e9b-9a0b-b0d2d4441a92")>
+2022-02-17 15:45:53,818 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:45:54,242 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 15:46:25,060 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:46:25,443 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="627213aaa3eed803b0a51379408b7824", element="e1449c2c-01c6-47af-8267-1021cea254ad")>
+2022-02-17 15:46:25,558 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:46:26,258 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 15:46:37,122 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 15:46:37,454 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="9829feadf80022dbc17745ed56804c84", element="77397056-db3f-48b0-a11e-c9bfdf1c27ad")>
+2022-02-17 15:46:37,543 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 15:46:38,205 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 16:13:34,119 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:13:34,442 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="93a75a7e8bce992b4d4f375bb46400cc", element="14861773-e663-4338-a5f5-24ea77ee3cce")>
+2022-02-17 16:13:34,562 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:13:35,276 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 16:13:45,434 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:13:45,725 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="e1fb08aa7cdd05f02b46eed4767034ef", element="edb42b81-0378-4e96-ade5-4d7c272cf65f")>
+2022-02-17 16:13:45,821 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:13:46,489 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 16:13:54,009 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:13:54,349 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="fdee47ecd694090feed19ee8bfd9712a", element="e444e3d2-85bd-4191-b7d9-7c17a27335df")>
+2022-02-17 16:13:54,428 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:13:55,038 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 16:14:02,255 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:14:02,601 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="2699d63e055081c396e2ee4e36ed4235", element="a14d78c4-b150-4966-b469-d1e3bd154c67")>
+2022-02-17 16:14:02,721 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:14:03,425 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 16:14:17,583 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:14:17,882 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="6e88499e-55d0-44c2-ac25-2d9773a28168", element="d0199558-6902-4d30-9f77-d144fda9b58a")>
+2022-02-17 16:14:18,355 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:14:18,809 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 16:14:31,906 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:14:32,212 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="5cdb81cb-68d4-43cd-9cbf-eeb9c7b41d01", element="86708824-a759-4c5f-8805-40c813c9a9fe")>
+2022-02-17 16:14:32,727 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:14:33,177 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 16:14:43,409 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:14:43,707 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="85b0a666-9a5d-4cf0-ab8c-fa87cd89430e", element="ad7c59d8-8189-41aa-82c4-cf5364693964")>
+2022-02-17 16:14:44,223 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:14:44,764 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 16:14:55,959 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:14:56,431 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c3e18efc-edd3-4169-bed4-891c6ca0c136", element="a65de10f-6489-4cbf-9e0d-a6c78fa7fd8b")>
+2022-02-17 16:14:56,728 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:14:57,268 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 16:16:22,995 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:16:23,359 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="1ddaaf84af2efe2bb91f2dfeb33509c0", element="9158bad7-ec07-4ab8-b1d9-0fb071239396")>
+2022-02-17 16:16:23,479 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:16:24,126 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 16:16:34,245 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:16:34,558 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="d727be6cd49e8f9c58d61577c24eb7fe", element="a1f1c975-2fa9-487a-9cdb-edcb477fca05")>
+2022-02-17 16:16:34,638 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:16:35,103 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 16:16:42,919 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:16:43,247 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="aa9a373d71ce942a53d3d112d0f2c685", element="b379887b-ddb8-4311-92c0-dfedc935e435")>
+2022-02-17 16:16:43,385 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:16:43,974 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 16:18:31,249 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:18:31,612 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="afdeb98e7434eab2f9a3abd25b006293", element="20a9f365-420a-4786-ba23-b819f96dd1b2")>
+2022-02-17 16:19:28,100 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:19:28,427 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="8fbbc88c62e910b566e699a0aff49bdf", element="05c30b7a-93bf-4c1d-93ea-7b71ffcc0b0a")>
+2022-02-17 16:19:28,543 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:19:29,026 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 16:20:40,795 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:20:41,112 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="a113f14d259901c89db7fa48a6ab3d84", element="7080b8e4-9c3b-4a68-8b1f-72aea825b1fe")>
+2022-02-17 16:20:41,218 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:20:41,693 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 16:21:32,819 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:21:33,116 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="057d5c4291db50b3d8daa810a42aad96", element="d04ac9ef-7fba-4270-b739-749a95f8919c")>
+2022-02-17 16:21:33,197 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:21:33,750 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 16:21:44,205 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:21:44,522 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="3e62c912828d2d130bd7d95a3df464fc", element="c2c84289-fb70-4019-81f8-c802ca30a630")>
+2022-02-17 16:25:51,404 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:25:51,710 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="903ad40a38a6b10353859dc7342f1781", element="d5c70af1-630e-4434-aecc-61d1ce429940")>
+2022-02-17 16:25:52,072 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:26:12,026 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:26:12,373 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="867dc9743294a6f14a4133fdeca62541", element="d1dcfdef-a707-4c2d-9017-eedfd9f864d7")>
+2022-02-17 16:26:12,510 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:26:12,995 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 16:26:23,270 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:26:23,599 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="11aeb926b24a70817de8fbf843803883", element="b4640fc4-28ee-45a4-a25a-7dedcb693b2e")>
+2022-02-17 16:26:23,739 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:26:24,469 - BasePage.py:[22] - [INFO] - Clicking on an element: toyota_XPATH
+2022-02-17 16:26:32,191 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:26:32,636 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="40ab6bed8408ebab0315887c55da2126", element="4c16c92d-f026-4416-a251-e531044db91a")>
+2022-02-17 16:26:32,767 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:26:33,353 - BasePage.py:[22] - [INFO] - Clicking on an element: honda_XPATH
+2022-02-17 16:26:41,498 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:26:41,955 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="502ccdca6b91032f8b06b1ff02a765fc", element="5b82ae4d-effd-478b-addc-371a7146e4af")>
+2022-02-17 16:26:42,071 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:26:42,613 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 16:27:21,307 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:27:21,719 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="e159fb380bf96706c2f09ad2d64db02f", element="612a9d0c-b274-4258-a8f1-27876e75adac")>
+2022-02-17 16:27:21,853 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:27:22,547 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 16:27:33,120 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:27:42,666 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:27:52,990 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:27:53,389 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="560fc6b94094d821f29fef4b4d22805b", element="1c396416-8f2e-42cb-9d59-2f2351b156cf")>
+2022-02-17 16:27:53,511 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:27:54,110 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 16:32:06,202 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:32:06,548 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="2d5274d0c1f52c07887cfc78f95131b2", element="770dbc3c-11ed-4ce1-b80f-2fbbc4d19f1d")>
+2022-02-17 16:32:06,750 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:32:07,681 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 16:32:18,145 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:32:27,333 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:32:36,492 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:32:36,854 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="f7f6cc1f59ec8d166569a956c0c7af22", element="d5a3b5d5-e7c8-4a18-80c0-d7687d5bea7f")>
+2022-02-17 16:32:36,999 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:32:37,459 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 16:32:49,183 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:32:49,530 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="4a1e5e3a-6d39-4a44-881f-f765c64a1441", element="5c83527e-fd93-4c0e-a206-4870e4d142f6")>
+2022-02-17 16:33:09,129 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:33:22,427 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:33:34,536 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 16:33:34,822 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="40523e20-85a9-46e8-8dcc-67967d800903", element="5c5e6bce-03e2-45b0-bce4-8742400aefbd")>
+2022-02-17 16:33:35,292 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 16:33:35,790 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 17:59:44,514 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 17:59:44,891 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="03a61d79da08aa352ae9c251af625b01", element="00bbe418-a4e4-47ea-b238-b7baf37d4eee")>
+2022-02-17 17:59:45,013 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 17:59:45,718 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 17:59:52,959 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 18:00:01,094 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 18:00:10,115 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 18:00:10,478 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.remote.webelement.WebElement (session="d11a6339db2bc3ac28b295baa87e3e4f", element="639021bf-79f2-419f-a6ed-f348ba6107cc")>
+2022-02-17 18:00:10,596 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 18:00:11,049 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH
+2022-02-17 18:00:23,549 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 18:00:23,873 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="614c7952-1382-4c8b-bbee-e6cbc63907d6", element="ea6adb55-1e20-4395-911e-f40c8299308e")>
+2022-02-17 18:00:24,590 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 18:00:25,562 - BasePage.py:[22] - [INFO] - Clicking on an element: bmw_XPATH
+2022-02-17 18:00:35,066 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 18:00:48,152 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 18:01:00,714 - test_carwale.py:[57] - [INFO] - ******Inside Select Cars Test******
+2022-02-17 18:01:01,027 - BasePage.py:[57] - [INFO] - Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="fe2fafc8-2ed7-4a9c-bc3f-1d03ddc91367", element="8b992204-7f73-4b45-98fc-afaa6883a349")>
+2022-02-17 18:01:01,484 - BasePage.py:[22] - [INFO] - Clicking on an element: findNewCar_XPATH
+2022-02-17 18:01:02,258 - BasePage.py:[22] - [INFO] - Clicking on an element: hyundai_XPATH

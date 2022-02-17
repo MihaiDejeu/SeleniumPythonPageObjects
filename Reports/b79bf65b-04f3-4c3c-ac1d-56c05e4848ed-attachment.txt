@@ -1,0 +1,10 @@
+INFO     WDM:logger.py:26 
+
+INFO     WDM:logger.py:26 ====== WebDriver manager ======
+INFO     WDM:logger.py:26 Current firefox version is 97.0
+INFO     WDM:logger.py:26 Get LATEST geckodriver version for 97.0 firefox
+INFO     WDM:logger.py:26 Driver [C:\Users\mihai.dejeu\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+INFO     TestCases.test_carwale:test_carwale.py:57 ******Inside Select Cars Test******
+INFO     Pages.BasePage:BasePage.py:57 Moving to element: <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="fe2fafc8-2ed7-4a9c-bc3f-1d03ddc91367", element="8b992204-7f73-4b45-98fc-afaa6883a349")>
+INFO     Pages.BasePage:BasePage.py:22 Clicking on an element: findNewCar_XPATH
+INFO     Pages.BasePage:BasePage.py:22 Clicking on an element: hyundai_XPATH
